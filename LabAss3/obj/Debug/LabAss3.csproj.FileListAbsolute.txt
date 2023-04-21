@@ -1,0 +1,13 @@
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss3\bin\Debug\LabAss3.exe.config
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss3\bin\Debug\LabAss3.exe
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss3\bin\Debug\LabAss3.pdb
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss3\obj\Debug\LabAss3.csproj.AssemblyReference.cache
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss3\obj\Debug\LabAss3.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss3\obj\Debug\LabAss3.Properties.Resources.resources
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss3\obj\Debug\LabAss3.csproj.GenerateResource.cache
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss3\obj\Debug\LabAss3.csproj.CoreCompileInputs.cache
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss3\obj\Debug\LabAss3.exe
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss3\obj\Debug\LabAss3.pdb
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss3\obj\Debug\LabAss3.frmCustomerDataEntry.resources
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss3\obj\Debug\LabAss3.frmCustomerPerview.resources
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss3\obj\Debug\LabAss3.MDIParent1.resources

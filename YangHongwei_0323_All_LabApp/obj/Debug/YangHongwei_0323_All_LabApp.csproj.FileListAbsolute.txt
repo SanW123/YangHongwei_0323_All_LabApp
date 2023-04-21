@@ -1,0 +1,8 @@
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\YangHongwei_0323_All_LabApp\bin\Debug\YangHongwei_0323_All_LabApp.exe.config
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\YangHongwei_0323_All_LabApp\bin\Debug\YangHongwei_0323_All_LabApp.exe
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\YangHongwei_0323_All_LabApp\bin\Debug\YangHongwei_0323_All_LabApp.pdb
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\YangHongwei_0323_All_LabApp\obj\Debug\YangHongwei_0323_All_LabApp.csproj.AssemblyReference.cache
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\YangHongwei_0323_All_LabApp\obj\Debug\YangHongwei_0323_All_LabApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\YangHongwei_0323_All_LabApp\obj\Debug\YangHongwei_0323_All_LabApp.csproj.CoreCompileInputs.cache
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\YangHongwei_0323_All_LabApp\obj\Debug\YangHongwei_0323_All_LabApp.exe
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\YangHongwei_0323_All_LabApp\obj\Debug\YangHongwei_0323_All_LabApp.pdb

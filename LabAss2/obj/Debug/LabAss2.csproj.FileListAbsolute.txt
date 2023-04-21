@@ -1,0 +1,11 @@
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss2\bin\Debug\LabAss2.exe.config
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss2\bin\Debug\LabAss2.exe
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss2\bin\Debug\LabAss2.pdb
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss2\obj\Debug\LabAss2.csproj.AssemblyReference.cache
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss2\obj\Debug\LabAss2.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss2\obj\Debug\LabAss2.Form1.resources
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss2\obj\Debug\LabAss2.Properties.Resources.resources
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss2\obj\Debug\LabAss2.csproj.GenerateResource.cache
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss2\obj\Debug\LabAss2.csproj.CoreCompileInputs.cache
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss2\obj\Debug\LabAss2.exe
+C:\Users\YHW\source\repos\YangHongwei_0323_All_LabApp\LabAss2\obj\Debug\LabAss2.pdb
